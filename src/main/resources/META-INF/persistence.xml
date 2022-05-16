@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persistence xmlns="https://jakarta.ee/xml/ns/persistence"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="https://jakarta.ee/xml/ns/persistence https://jakarta.ee/xml/ns/persistence/persistence_3_0.xsd"
+             version="3.0">
+    <!-- Define Persistence Unit -->
+    <persistence-unit name="birthdayPU" transaction-type="JTA">
+      <jta-data-source>jdbc/birthday</jta-data-source>
+      <class>ba.celebration.organization.ejb.user.privilege.entity.Privilege</class>
+      <class>ba.celebration.organization.ejb.address.entity.Address</class>
+      <class>ba.celebration.organization.ejb.town.entity.Town</class>
+      <class>ba.celebration.organization.ejb.country.entity.Country</class>
+      <class>ba.celebration.organization.ejb.service.type.entity.ServiceType</class>
+      <class>ba.celebration.organization.ejb.celebration.entity.Celebration</class>
+      <class>ba.celebration.organization.ejb.celebration.cost.entity.CelebrationCost</class>
+      <class>ba.celebration.organization.ejb.user.entity.User</class>
+      <class>ba.celebration.organization.ejb.celebration.discount.entity.DiscountRule</class>
+    </persistence-unit>
+</persistence>
