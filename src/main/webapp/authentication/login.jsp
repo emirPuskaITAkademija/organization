@@ -1,4 +1,3 @@
-<%@page import="ba.celebration.organization.routes.Routes" %>
 <%@page contentType="text/html" pageEncoding="UTF-8" %>
 <!DOCTYPE html>
 <html>
@@ -16,7 +15,10 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4 login-sec">
+                <!-- Title of the login page -->
                 <h2 class="text-center">Login Now</h2>
+
+                <!-- Form of the login -->
                 <form action="authenticate" method="post" class="login-form">
                     <div class="form-group">
                         <label for="username" class="text-uppercase">Username</label>
@@ -35,6 +37,8 @@
                     </a>
                 </form>
             </div>
+
+            <!-- Picture of the login page -->
             <div class="col-md-8 banner-sec">
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                     <ol class="carousel-indicators">
@@ -66,6 +70,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </section>
 </body>
 </html>

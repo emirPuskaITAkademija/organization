@@ -2,8 +2,7 @@
 <%@page import="ba.celebration.organization.ejb.user.entity.User" %>
 <%@page import="ba.celebration.organization.ejb.user.privilege.entity.Privilege" %>
 <%@page import="ba.celebration.organization.user.session.UserRole" %>
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-         pageEncoding="UTF-8" %>
+<%@page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">

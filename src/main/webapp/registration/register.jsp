@@ -1,12 +1,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
-<%@page import="javax.naming.Context" %>
-<%@page import="javax.naming.InitialContext" %>
-<%@page import="ba.celebration.organization.user.registration.model.RegistrationModel" %>
-<%@page import="jakarta.inject.Inject" %>
-<%@page import="ba.celebration.organization.ejb.town.entity.Town" %>
-<%@page import="java.util.List" %>
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-         pageEncoding="UTF-8" %>
+<!--
+The JavaServer Pages Standard Tag Library (JSTL) is a collection of useful JSP tags which encapsulates the core functionality common to many JSP applications.
+JSTL has support for common, structural tasks such as iteration and conditionals, tags for manipulating XML documents, internationalization tags, and SQL tags.
+It also provides a framework for integrating the existing custom tags with the JSTL tags.
+-->
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -17,6 +15,8 @@
 <body>
 <div style="padding:20px">
     <h3 class="card-header text-center font-weight-bold text-uppercase py-4">Registration Form</h3>
+
+    <!-- Form input fields -->
     <form action="register" method="post" style="border:1px solid #ccc; padding: 20px;">
 
         <div class="col-md-4">
