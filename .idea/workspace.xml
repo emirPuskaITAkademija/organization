@@ -9,11 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="008d3f1d-ed75-44cc-b816-3fa8e65bfcbc" name="Changes" comment="Documentation">
+    <list default="true" id="008d3f1d-ed75-44cc-b816-3fa8e65bfcbc" name="Changes" comment="Documented some JSP for better understanding">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/authentication/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/authentication/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/dashboard/dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/dashboard/dashboard.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/registration/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/registration/register.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +186,7 @@
       <workItem from="1652693437446" duration="1736000" />
       <workItem from="1652723919654" duration="2544000" />
       <workItem from="1652726498678" duration="7812000" />
-      <workItem from="1652771951932" duration="1138000" />
+      <workItem from="1652771951932" duration="1279000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore">
       <created>1652734045384</created>
@@ -226,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652736680818</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Documented some JSP for better understanding">
+      <created>1652786504880</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652786504880</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,7 +253,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit 3" />
     <MESSAGE value="Documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Documentation" />
+    <MESSAGE value="Documented some JSP for better understanding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Documented some JSP for better understanding" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
