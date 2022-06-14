@@ -10,7 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="008d3f1d-ed75-44cc-b816-3fa8e65bfcbc" name="Changes" comment="Documented some JSP for better understanding">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ba/celebration/organization/service/rest/ApplicationPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ba/celebration/organization/service/rest/HelloApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ba/celebration/organization/service/soap/ProductWS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/organization_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/organization_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bfa9d02b-b8ac-453f-82b8-80bda4cd6ea3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bfa9d02b-b8ac-453f-82b8-80bda4cd6ea3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organization.iml" beforeDir="false" afterPath="$PROJECT_DIR$/organization.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +87,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../organization (1)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.2265625" />
@@ -186,7 +194,17 @@
       <workItem from="1652693437446" duration="1736000" />
       <workItem from="1652723919654" duration="2544000" />
       <workItem from="1652726498678" duration="7812000" />
-      <workItem from="1652771951932" duration="1279000" />
+      <workItem from="1652771951932" duration="1898000" />
+      <workItem from="1652966292685" duration="11000" />
+      <workItem from="1653558946775" duration="3000" />
+      <workItem from="1653633113648" duration="200000" />
+      <workItem from="1653988933526" duration="278000" />
+      <workItem from="1653990523070" duration="19000" />
+      <workItem from="1653991103671" duration="18000" />
+      <workItem from="1654238211687" duration="13000" />
+      <workItem from="1655184843068" duration="3271000" />
+      <workItem from="1655198979073" duration="1559000" />
+      <workItem from="1655202802482" duration="76000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore">
       <created>1652734045384</created>
@@ -230,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652786504880</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Documented some JSP for better understanding">
+      <created>1652786573292</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652786573292</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -46,11 +46,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Hibernate 5.4.11-5.4.11" level="project" />
+    <orderEntry type="library" name="bootstrap" level="application" />
     <orderEntry type="library" name="Maven: javax.servlet:jstl:1.2" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.enterprise:jakarta.enterprise.cdi-api:3.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.el:jakarta.el-api:4.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.interceptor:jakarta.interceptor-api:2.0.0" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.annotation:jakarta.annotation-api:2.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.inject:jakarta.inject-api:2.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.ejb:jakarta.ejb-api:4.0.0" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: jakarta.transaction:jakarta.transaction-api:2.0.0" level="project" />
@@ -64,6 +64,25 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.apiguardian:apiguardian-api:1.1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.jupiter:junit-jupiter-engine:5.8.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.junit.platform:junit-platform-engine:1.8.1" level="project" />
-    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="Maven: jakarta.xml.ws:jakarta.xml.ws-api:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.xml.bind:jakarta.xml.bind-api:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.xml.soap:jakarta.xml.soap-api:2.0.0" level="project" />
+    <orderEntry type="library" name="Maven: jakarta.jws:jakarta.jws-api:3.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.ws:jaxws-rt:3.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.bind:jaxb-impl:3.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.bind:jaxb-core:3.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.glassfish.ha:ha-api:3.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.glassfish.external:management-api:3.2.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.glassfish.gmbal:gmbal-api-only:4.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jvnet.staxex:stax-ex:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.stream.buffer:streambuffer:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.jvnet.mimepull:mimepull:1.9.13" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.fastinfoset:FastInfoset:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.mail:jakarta.mail:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.sun.xml.messaging.saaj:saaj-impl:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: com.fasterxml.woodstox:woodstox-core:6.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.codehaus.woodstox:stax2-api:4.2.1" level="project" />
+    <orderEntry type="library" name="Maven: com.sun.activation:jakarta.activation:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: jakarta.annotation:jakarta.annotation-api:2.0.0" level="project" />
   </component>
 </module>
